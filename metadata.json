@@ -1,0 +1,9 @@
+{
+  "name": "CreativeFish Neural Network",
+  "description": "A high-performance unblocked web proxy and gaming hub powered by the Ultraviolet engine.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
